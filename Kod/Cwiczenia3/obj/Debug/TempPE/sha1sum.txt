@@ -1,0 +1,1 @@
+8a4dea525900e07bfcaad71c818b7717312ce78f  Properties.Resources.Designer.cs.dll
